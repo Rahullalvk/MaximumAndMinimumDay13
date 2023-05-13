@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Day13\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\net7.0\MaximumAndMinimum.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Day13\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\net7.0\MaximumAndMinimum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Day13\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\net7.0\MaximumAndMinimum.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Day13\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\net7.0\MaximumAndMinimum.AssemblyInfo.cs
+C:\Users\Admin\Documents\Day13\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\net7.0\MaximumAndMinimum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Day13\MaximumAndMinimum\MaximumAndMinimum\bin\Debug\net7.0\MaximumAndMinimum.exe
+C:\Users\Admin\Documents\Day13\MaximumAndMinimum\MaximumAndMinimum\bin\Debug\net7.0\MaximumAndMinimum.deps.json
+C:\Users\Admin\Documents\Day13\MaximumAndMinimum\MaximumAndMinimum\bin\Debug\net7.0\MaximumAndMinimum.runtimeconfig.json
+C:\Users\Admin\Documents\Day13\MaximumAndMinimum\MaximumAndMinimum\bin\Debug\net7.0\MaximumAndMinimum.dll
+C:\Users\Admin\Documents\Day13\MaximumAndMinimum\MaximumAndMinimum\bin\Debug\net7.0\MaximumAndMinimum.pdb
+C:\Users\Admin\Documents\Day13\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\net7.0\MaximumAndMinimum.dll
+C:\Users\Admin\Documents\Day13\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\net7.0\refint\MaximumAndMinimum.dll
+C:\Users\Admin\Documents\Day13\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\net7.0\MaximumAndMinimum.pdb
+C:\Users\Admin\Documents\Day13\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\net7.0\MaximumAndMinimum.genruntimeconfig.cache
+C:\Users\Admin\Documents\Day13\MaximumAndMinimum\MaximumAndMinimum\obj\Debug\net7.0\ref\MaximumAndMinimum.dll
