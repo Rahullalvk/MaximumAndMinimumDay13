@@ -8,16 +8,16 @@ namespace MaximumAndMinimum
 {
     public class Maximum
     {
-        public static float GetMax(float num1, float num2, float num3)
+        public static string GetMax(string num1, string num2, string num3)
         {
-            float max = num1;
+            string max = num1;
 
-            if (num2.CompareTo(max) > 0)
+            if (string.Compare(num2, max) > 0)
             {
                 max = num2;
             }
 
-            if (num3.CompareTo(max) > 0)
+            if (string.Compare(num3, max) > 0)
             {
                 max = num3;
             }
