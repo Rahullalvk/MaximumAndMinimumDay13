@@ -4,16 +4,16 @@
     {
         public static void Main(string[] args) 
         {
-            Console.WriteLine("Enter the first integer:");
-            int num1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the first float number:");
+            float num1 = float.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter the second integer:");
-            int num2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the second float number:");
+            float num2 = float.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter the third integer:");
-            int num3 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the third float number:");
+            float num3 = float.Parse(Console.ReadLine());
 
-            int max = Maximum.GetMax(num1, num2, num3);
+            float max = Maximum.GetMax(num1, num2, num3);
             Console.WriteLine("The maximum value is: " + max);
         }
     }

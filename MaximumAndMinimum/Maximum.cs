@@ -8,9 +8,9 @@ namespace MaximumAndMinimum
 {
     public class Maximum
     {
-        public static int GetMax(int num1, int num2, int num3)
+        public static float GetMax(float num1, float num2, float num3)
         {
-            int max = num1;
+            float max = num1;
 
             if (num2.CompareTo(max) > 0)
             {
