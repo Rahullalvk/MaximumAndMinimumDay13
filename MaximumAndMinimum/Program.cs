@@ -10,7 +10,7 @@
             string[] inputValues = input.Split(' ');
             string max = Maximum<string>.GetMax(inputValues);
 
-            Console.WriteLine("The maximum value is: " + max);
+            Maximum<string>.PrintMax(max);
         }
     }
 }
