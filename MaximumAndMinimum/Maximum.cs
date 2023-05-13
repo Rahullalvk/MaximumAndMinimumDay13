@@ -6,23 +6,27 @@ using System.Threading.Tasks;
 
 namespace MaximumAndMinimum
 {
-    public class Maximum
-    {
-        public static string GetMax(string num1, string num2, string num3)
+
+      public class Maximum<T> where T : IComparable<T>
         {
-            string max = num1;
-
-            if (string.Compare(num2, max) > 0)
+            public static T GetMax(params T[] values)
             {
-                max = num2;
-            }
+                if (values == null || values.Length == 0)
+                {
+                    throw new ArgumentException("At least one value must be provided.");
+                }
 
-            if (string.Compare(num3, max) > 0)
-            {
-                max = num3;
-            }
+                T max = values[0];
 
-            return max;
-        }
+                for (int i = 1; i < values.Length; i++)
+                {
+                    if (values[i].CompareTo(max) > 0)
+                    {
+                        max = values[i];
+                    }
+                }
+
+                return max;
+            }
     }
 }
